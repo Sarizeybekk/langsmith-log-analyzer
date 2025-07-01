@@ -1,0 +1,10 @@
+2025-07-01 05:00:14 ERROR [AuthService] Authentication failure for user 'guest' from IP 172.16.0.44
+2025-07-01 05:01:03 WARNING [Disk] Disk space low on volume /dev/sda1 (2% remaining)
+2025-07-01 05:02:12 CRITICAL [Kernel] Kernel panic: unable to mount root fs
+2025-07-01 05:03:30 ERROR [WebServer] Service unavailable: HTTP 503 on endpoint /api/v1/report
+2025-07-01 05:04:49 WARNING [Network] Possible DDoS attack detected from IP range 45.88.1.0/24
+2025-07-01 05:05:25 ERROR [Database] Deadlock detected between transaction 123 and 124
+2025-07-01 05:06:42 INFO [JobRunner] Scheduled task 'CleanupTempFiles' completed successfully
+2025-07-01 05:07:55 ERROR [Scheduler] Out of memory while starting JobQueue processor
+2025-07-01 05:08:36 CRITICAL [Security] Intrusion detected on SSH port from IP 212.98.34.12
+2025-07-01 05:09:41 INFO [API] GET /status returned 200 OK

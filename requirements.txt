@@ -1,0 +1,10 @@
+# Temel LangChain ve LangSmith kütüphaneleri
+langchain
+langsmith
+langchain-openai
+langchain-community
+# .env dosyasından ortam değişkenlerini yüklemek için
+python-dotenv
+matplotlib
+pandas
+streamlit
