@@ -100,4 +100,6 @@ Within the UI:
 * Matplotlib
 
 ---
+![image](https://github.com/user-attachments/assets/5c7fd20b-8c56-454d-b4b5-00087f204f80)
 
+![image](https://github.com/user-attachments/assets/68d7d864-3a56-4738-853c-09355280e986)
