@@ -101,5 +101,5 @@ Within the UI:
 
 ---
 ![image](https://github.com/user-attachments/assets/5c7fd20b-8c56-454d-b4b5-00087f204f80)
+<img width="1095" alt="Ekran Resmi 2025-07-02 03 09 05" src="https://github.com/user-attachments/assets/83280a2c-6136-4a2f-a086-aeff7223f258" />
 
-![image](https://github.com/user-attachments/assets/68d7d864-3a56-4738-853c-09355280e986)
