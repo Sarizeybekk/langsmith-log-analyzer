@@ -103,3 +103,9 @@ Within the UI:
 ![image](https://github.com/user-attachments/assets/5c7fd20b-8c56-454d-b4b5-00087f204f80)
 <img width="1095" alt="Ekran Resmi 2025-07-02 03 09 05" src="https://github.com/user-attachments/assets/83280a2c-6136-4a2f-a086-aeff7223f258" />
 
+Versiyon-2: Güncel hali:
+<img width="1500" height="827" alt="Ekran Resmi 2025-07-11 19 43 32" src="https://github.com/user-attachments/assets/64673a31-6227-4962-a264-8517b02eb995" />
+<img width="1491" height="797" alt="Ekran Resmi 2025-07-11 19 43 46" src="https://github.com/user-attachments/assets/43a8737d-d45c-4aca-b8f9-394b2e1720e0" />
+<img width="1495" height="650" alt="Ekran Resmi 2025-07-11 19 43 54" src="https://github.com/user-attachments/assets/3d<img width="1486" height="747" alt="Ekran Resmi 2025-07-11 19 44 15" src="https://github.com/user-attachments/assets/d4e7ab4b-924f-415a-8737-60632b4d54fe" />
+1b197a-f4d7-4108-acd1-752c764ba424" />
+<img width="1498" height="596" alt="Ekran Resmi 2025-07-11 19 44 25" src="https://github.com/user-attachments/assets/41ab9204-3d5d-4e71-9993-646abee5f99d" />
