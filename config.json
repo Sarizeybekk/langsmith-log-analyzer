@@ -1,0 +1,10 @@
+{
+  "log_format": "custom",
+  "timestamp_field": "TIMESTAMP",
+  "service_field": "SERVICE",
+  "duration_field": "DURATION",
+  "user_field": "USER",
+  "error_field": "ERROR",
+  "delimiter": ";",
+  "encoding": "utf-8"
+} 

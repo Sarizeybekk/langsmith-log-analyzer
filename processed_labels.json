@@ -1,0 +1,54 @@
+{
+  "f96461beae6437315d7f1544f0cc8cb5": {
+    "log": "2025-07-02 00:00:35,107 ERROR rest.req.err.gate/v2/authentication                          : REQUESTID=GeQY_QSpTMOiRxgxLVVpCg; ERROR=Kullan\u0131c\u0131 bilgileri eksik veya hatal\u0131d\u0131r!;",
+    "parsed": {
+      "event_type": "Authentication Error",
+      "source": "rest.req.err.gate/v2/authentication",
+      "url_path": "/eys/servis",
+      "duration": 35,
+      "timestamp": "2025-07-02 00:00:35",
+      "has_error": true,
+      "user_action_successful": false,
+      "is_critical": true
+    }
+  },
+  "050a88c6fc7b8090bdd6c24c9512b06a": {
+    "log": "2025-07-02 10:53:00,867 ERROR rest.req.err.gate/v1/reports/ewr-position                    : REQUESTID=i4dpYMsmR0S5BHSmvsfmgw; ERROR=60676:Bu hesap numaras\u0131 ile tan\u0131ml\u0131 hesap bulunamad\u0131!|ro_ewrReportPosition;",
+    "parsed": {
+      "event_type": "Hesap numaras\u0131 ile tan\u0131ml\u0131 hesap bulunamad\u0131!",
+      "source": "/rest.req.err.gate/v1/reports/ewr-position",
+      "url_path": "/ewr-position",
+      "duration": 0.867,
+      "timestamp": "2025-07-02 10:53:00",
+      "has_error": true,
+      "user_action_successful": false,
+      "is_critical": true
+    }
+  },
+  "8cde36eb7a075b5860718620e25a3875": {
+    "log": "2025-07-02 11:30:38,715 ERROR rest.req.err.gate/v1/reports/ewr-position                    : REQUESTID=vpXx8hHxT16w59y7FOnBsQ; ERROR=accountId should be of type java.lang.Integer; DESCRIPTION=Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; For input string: \"589871625007\";",
+    "parsed": {
+      "event_type": "Invalid Account Id Conversion Error",
+      "source": "rest.req.err.gate/v1/reports/ewr-position",
+      "url_path": "/eys/servis",
+      "duration": null,
+      "timestamp": "2025-07-02 11:30:38.715",
+      "has_error": true,
+      "user_action_successful": false,
+      "is_critical": false
+    }
+  },
+  "5103d266de5cfc2050dbff41c0d59251": {
+    "log": "2025-07-02 10:53:00,900 ERROR rest.req.err.gate/v1/reports/overall                         : REQUESTID=4gkKe_ewSD2X5IlAKDgMIQ; ERROR=60676:Bu hesap numaras\u0131 ile tan\u0131ml\u0131 hesap bulunamad\u0131!|rg_ovrReportAccountOverall;",
+    "parsed": {
+      "event_type": "Login Failure, Disk Warning gibi k\u0131sa tan\u0131m",
+      "source": "/eys/fin/gate/v1/reports/overall",
+      "url_path": "/eys/fin/gate/v1/reports/overall",
+      "duration": null,
+      "timestamp": "2025-07-02 10:53:00,900",
+      "has_error": true,
+      "user_action_successful": false,
+      "is_critical": true
+    }
+  }
+}

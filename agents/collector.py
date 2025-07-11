@@ -1,6 +1,6 @@
 
 class CollectorAgent:
-    def from_file(self, file_path="logs/logs.txt"):
+    def from_file(self, file_path="logs/server.txt"):
         try:
             with open(file_path, "r") as f:
                 return [line.strip() for line in f.readlines() if line.strip()]
